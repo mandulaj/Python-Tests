@@ -1,0 +1,18 @@
+Base generator
+
+- convert from base 10 to the base of the object
+- convert from the base of the object to base 10
+
+- convert from any base to base of the object
+- convert from the base of the object to any base
+
+- add two numbers in a base of the object (return in the same base unless specified)
+- substract two numbers =//=
+- muliply =//=
+- *divide =//=
+- *roots =//=
+
+- round to n signifficant figures
+
+- deduce a base from a number
+- generate custome chars
